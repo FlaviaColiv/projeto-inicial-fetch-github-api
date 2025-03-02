@@ -1,4 +1,4 @@
-import { repositories } from "../services/repositories";
+import { getRepositories } from "../services/repositories.js";
 
 const user = {
     avatarUrl: '',
